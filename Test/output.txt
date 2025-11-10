@@ -1,0 +1,36 @@
+----------------------
+Duck #1:
+I'm a Mallar Duck.
+I can Fly!
+Quack!
+----------------------
+Duck #2:
+I'm a Redhead Duck.
+I can Fly!
+Quack!
+----------------------
+Duck #3:
+I'm a Rubber Duck.
+I can't fly...
+Squeak!
+----------------------
+Duck #4:
+I'm a Decoy Duck.
+I can't fly...
+<<Silent>>
+----------------------
+ModelDuck (version 1)
+I'm a Decoy Duck.
+I can't fly...
+<<Silent>>
+----------------------
+ModelDuck (version 2)
+I'm a Decoy Duck.
+I can't fly...
+Squeak!
+----------------------
+ModelDuck (version 3)
+I'm a Decoy Duck.
+I can Fly!
+Squeak!
+----------------------
